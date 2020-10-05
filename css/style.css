@@ -101,6 +101,11 @@ img {
   max-width: 100%;
 }
 
+/* Change Selection Text Color When Highlighting */
+::-moz-selection { background-color: #9BB0DB;
+color: #fff; }
+::selection { background-color: #9BB0DB;
+color: #fff; }
 
 /* preloader styles
 /* ========================================== */
