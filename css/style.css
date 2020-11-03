@@ -139,6 +139,21 @@ color: #fff; }
 	margin-left: 2px;
 	text-transform: uppercase;
 	display: block;
+	border:none;
+}
+
+.button1{
+	color:white;
+	font-size: 13px;
+	font-weight: 400;
+	letter-spacing: 2px;
+	padding: 8px 20px;
+	margin-right: 2px;
+	margin-left: 2px;
+	text-transform: uppercase;
+	display: block;
+	border:none;
+	background-color: black;
 }
 
 /* navigation styles
